@@ -6,7 +6,7 @@ A simple console-based Tic Tac Toe game built using Java.
 
 * Two-player gameplay
 * 3x3 board
-* Win detection
+* Win detection 
 * Draw detection
 * Input validation for occupied cells
 
