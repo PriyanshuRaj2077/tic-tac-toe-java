@@ -9,6 +9,7 @@ A simple console-based Tic Tac Toe game built using Java.
 * Win detection 
 * Draw detection
 * Input validation for occupied cells
+* Terminal based
 
 ## Technologies Used
 
@@ -16,6 +17,7 @@ A simple console-based Tic Tac Toe game built using Java.
 * 2D Arrays
 * Loops
 * Conditional Statements
+  
 
 ## How to Run
 
